@@ -1,0 +1,5 @@
+AUG	Met	M	
+ACA	Thr	T	
+CUG	Leu	L	
+CAU	His	H	6.00
+UGA	STOP	STOP	
